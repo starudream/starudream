@@ -1,5 +1,7 @@
 # Hello
 
+![HitCount](http://hits.dwyl.com/starudream.svg)
+
 ## 我叫 王晟
 
 于 2019 年毕业于 [江苏科技大学](http://www.just.edu.cn) ，目前居住于 中国 [上海](https://www.google.com/maps/place/Shanghai,+China) 。
