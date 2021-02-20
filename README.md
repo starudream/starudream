@@ -11,3 +11,9 @@
 爱好 游戏，专注于 [Steam](https://store.steampowered.com) 、[Origin](https://www.origin.com) 、[PS4](https://www.playstation.com) 平台。
 
 最后，您可以通过 [E-Mail](mailto:justwangsheng@gmail.com) 、[GitHub](https://github.com/starudream) 、[WeiBo](https://weibo.com/StarUDream) 、[Telegram](https://t.me/wangsheng) 联系我。
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=starudream&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starudream&layout=compact&hide=html)
