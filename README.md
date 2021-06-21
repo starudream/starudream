@@ -1,6 +1,6 @@
 # Hello
 
-![HitCount](http://hits.dwyl.com/starudream.svg)
+![HitCount](https://hits.52xckl.cn/starudream.svg)
 
 ## 我叫 王晟
 
