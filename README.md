@@ -12,6 +12,6 @@
 
 ---
 
-![GitHub stats](https://stats.52xckl.cn/api?username=starudream&count_private=true&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=starudream&count_private=true&show_icons=true)
 
-![Top Langs](https://stats.52xckl.cn/api/top-langs/?username=starudream&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starudream&layout=compact&hide=html,css)
