@@ -12,6 +12,14 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=starudream&count_private=true&show_icons=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=starudream&column=-1&margin-w=5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starudream&layout=compact&hide=html,css)
+---
+
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starudream&theme=github)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=starudream&theme=github)
+
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starudream&theme=github)
+
+![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starudream&theme=github&utcOffset=8)
