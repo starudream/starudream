@@ -12,22 +12,4 @@
 
 ---
 
-<div style="text-align: center;">
-
 ![Metrics](./github-metrics.svg)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=starudream&no-bg=true&column=-1&margin-w=5)
-
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starudream&theme=github)
-
-![Streak](https://streak-stats.demolab.com?user=starudream&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=starudream&theme=github)
-
-![Commit-Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=starudream&theme=github)
-
-![Repo-Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starudream&theme=github)
-
-![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starudream&theme=github&utcOffset=8)
-
-</div>
